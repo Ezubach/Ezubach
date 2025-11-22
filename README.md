@@ -1,13 +1,13 @@
 <div align="center">
-  <h1>Hola, soy Airam Martín! 👋</h1>
-  <p>Estudiante de Ingenieria del software en la Universidad Complutense de Madrid. En mi GitHub encontrarás proyectos de la universidad y personales.</p>
+  <h1>Hola, soy Eduardo Zubach! 👋</h1>
+  <p>Estudiante de Ingenieria Informática en la Universidad Complutense de Madrid. En mi GitHub encontrarás proyectos de la universidad y personales.</p>
 </div>
 
 ---
 
 ## 📧 Contacto
-- Email: [airamxl9@gmail.com](mailto:airamxl9@gmail.com)  
-- LinkedIn: [Airam Martín](https://www.linkedin.com/in/airamsoto/)  
+- Email:
+- LinkedIn: [Eduardo Zubach Dumich]([https://www.linkedin.com/in/eduardo-zubach-dumich-06a847336/])  
 
 ---
 
