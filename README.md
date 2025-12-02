@@ -8,7 +8,7 @@
 
 ## 📧 Contacto
 - Email: ezubachdumich@gmail.com
-- LinkedIn: (https://www.linkedin.com/in/eduardozubachdumich)
+- LinkedIn: https://www.linkedin.com/in/eduardozubachdumich
 
 ---
 
