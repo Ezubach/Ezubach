@@ -13,9 +13,9 @@
 ---
 
 ## 🔭 Proyectos destacados
-- [java-concurrent](https://github.com/Ezubach/java-concurrent) — Proyecto sobre concurrencia en Java (algoritmos, sincronización, patrones concurrentes).
-- [dao-governance](https://github.com/Ezubach/dao-governance) — Implementación/estudio de gobernanza para DAO (smart contracts, herramientas de gobernanza).
-- [gestor-fdc](https://github.com/Ezubach/gestor-fdc) — Gestor de flujo de datos/controles (describe aquí brevemente el propósito y tecnologías).
+- [Java-Concurrent-Messaging-Server](https://github.com/Ezubach/java-concurrent) — Proyecto sobre concurrencia en Java (algoritmos, sincronización, patrones concurrentes).
+- [Dao-Governance-System](https://github.com/Ezubach/dao-governance) — Implementación/estudio de gobernanza para DAO (smart contracts, herramientas de gobernanza).
+- [GestorFDC](https://github.com/Ezubach/gestor-fdc) — Gestor de flujo de datos/controles (describe aquí brevemente el propósito y tecnologías).
 
 ---
 
