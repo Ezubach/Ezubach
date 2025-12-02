@@ -13,9 +13,9 @@
 ---
 
 ## 🔭 Proyectos destacados
-- [Java-Concurrent-Messaging-Server](https://github.com/Ezubach/Java-Concurrent-Messaging-Server) — Proyecto sobre concurrencia en Java (algoritmos, sincronización, patrones concurrentes).
-- [Dao-Governance-System](https://github.com/Ezubach/Dao-Governance-System) — Implementación/estudio de gobernanza para DAO (smart contracts, herramientas de gobernanza).
-- [GestorFDC](https://github.com/Ezubach/GestorFDC) — Gestor de flujo de datos/controles (describe aquí brevemente el propósito y tecnologías).
+- [Java-Concurrent-Messaging-Server](https://github.com/Ezubach/Java-Concurrent-Messaging-Server) — A high-performance, multi-threaded chat server implemented in Java.
+- [Dao-Governance-System](https://github.com/Ezubach/Dao-Governance-System) — A comprehensive desktop application designed for the administrative management of the organization "Fraternidad del Despertar Consciente".
+- [GestorFDC](https://github.com/Ezubach/GestorFDC) — A decentralized governance system implementing Quadratic Voting on the Ethereum blockchain.
 
 ---
 
