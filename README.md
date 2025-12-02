@@ -1,46 +1,64 @@
 <div align="center">
+  <img src="https://github.com/Ezubach.png" width="120" alt="Avatar" />
   <h1>Hola, soy Eduardo Zubach! 👋</h1>
-  <p>Estudiante de Ingenieria Informática en la Universidad Complutense de Madrid. En mi GitHub encontrarás proyectos de la universidad y personales.</p>
+  <p>Estudiante de Ingeniería Informática en la Universidad Complutense de Madrid. En mi GitHub encontrarás proyectos académicos y personales, con foco en backend y desarrollo web.</p>
 </div>
 
 ---
 
 ## 📧 Contacto
-- Email:
-- LinkedIn: [Eduardo Zubach Dumich]([https://www.linkedin.com/in/eduardo-zubach-dumich-06a847336/])  
+- Email: ezubachdumich@gmail.com
+- LinkedIn: [Eduardo Zubach Dumich](www.linkedin.com/in/eduardozubachdumich)
 
 ---
 
-## 🛠️ Tecnologías y Herramientas
+## 🔭 Proyectos destacados
+- [java-concurrent](https://github.com/Ezubach/java-concurrent) — Proyecto sobre concurrencia en Java (algoritmos, sincronización, patrones concurrentes).
+- [dao-governance](https://github.com/Ezubach/dao-governance) — Implementación/estudio de gobernanza para DAO (smart contracts, herramientas de gobernanza).
+- [gestor-fdc](https://github.com/Ezubach/gestor-fdc) — Gestor de flujo de datos/controles (describe aquí brevemente el propósito y tecnologías).
 
+---
+
+## 🛠️ Tecnologías y Experiencia
+
+Lenguajes:
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=ethereum&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c%23&logoColor=white"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+</p>
+
+Cloud & DevOps:
+<p>
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CI%2FCD-GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Serverless-000000?style=for-the-badge&logo=serverless&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ARM_Templates-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+</p>
+
+Bases de Datos:
+<p>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cosmos_DB-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+</p>
+
+Otras herramientas & plataformas:
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache_Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Remix_IDE-111111?style=for-the-badge&logo=ethereum&logoColor=white"/>
 </p>
-
-
-
-
----
-
-## 📈 GitHub Stats
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=airamsoto&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=airamsoto&layout=compact&langs_count=5&theme=algolia"/>
-</p>
-
----
