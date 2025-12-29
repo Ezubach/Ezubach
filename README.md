@@ -14,8 +14,8 @@
 
 ## 🔭 Proyectos destacados
 - [Java-Concurrent-Messaging-Server](https://github.com/Ezubach/Java-Concurrent-Messaging-Server) — A high-performance, multi-threaded chat server implemented in Java.
-- [Dao-Governance-System](https://github.com/Ezubach/Dao-Governance-System) — A comprehensive desktop application designed for the administrative management of the organization "Fraternidad del Despertar Consciente".
-- [GestorFDC](https://github.com/Ezubach/GestorFDC) — A decentralized governance system implementing Quadratic Voting on the Ethereum blockchain.
+- [Dao-Governance-System](https://github.com/Ezubach/Dao-Governance-System) — A decentralized governance system implementing Quadratic Voting on the Ethereum blockchain.
+- [GestorFDC](https://github.com/Ezubach/GestorFDC) — A comprehensive desktop application designed for the administrative management of an organization.
 
 ---
 
@@ -38,7 +38,6 @@ Cloud & DevOps:
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CI%2FCD-GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
   <img src="https://img.shields.io/badge/Serverless-000000?style=for-the-badge&logo=serverless&logoColor=white"/>
   <img src="https://img.shields.io/badge/ARM_Templates-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
 </p>
@@ -51,10 +50,6 @@ Bases de Datos:
 
 Otras herramientas & plataformas:
 <p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white"/>
